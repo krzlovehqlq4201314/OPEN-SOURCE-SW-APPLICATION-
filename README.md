@@ -14,7 +14,7 @@ License information (can be prompted to view LICENSE.md)
 Example:
 
 markdown
-copy
+
 # Open Source Practice
 
 This is a sample project that demonstrates how to write a README, Contributing, and LICENSE file.
@@ -37,27 +37,23 @@ This project is designed to help beginners quickly understand the basic file str
 git clone https://github.com/your-username/open-source-practice.git
 cd open-source-practice
 npm install # If you have dependencies, you can write it like this
-Example of use
+###Example of use
 bash
-copy
 # For example, start a project
 npm start
 
-contribute
-If you would like to contribute to this project, please read the CONTRIBUTING.md.
-
-permit
+###permit
 This project is released under the MIT license, please refer to LICENSE.md for details.
 
 Make changes and submit
 bash
-copy
+
 git add .
 git commit -m "feat: add a new feature"
 Please follow the submission guidelines below.
 Push to your branch
 bash
-copy
+
 git push origin feature/my-new-feature
 Submission Information Specification
 The following types of commit prefixes are recommended for this project:
@@ -72,7 +68,7 @@ chore: Changes to build or assist tools
 Example:
 
 sql
-copy
+
 git commit -m "feat: add user login function"
 Code style
 Indentation uses 2 spaces
