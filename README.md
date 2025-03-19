@@ -11,7 +11,6 @@ List of key features
 Example of use
 How to contribute (can be prompted to view CONTRIBUTING.md)
 License information (can be prompted to view LICENSE.md)
-Example:
 
 
 # Open Source Practice
@@ -64,7 +63,6 @@ style: Code style adjustment (does not affect functionality)
 refactor: Code refactoring
 test: test-related
 chore: Changes to build or assist tools
-Example:
 
 sql
 
