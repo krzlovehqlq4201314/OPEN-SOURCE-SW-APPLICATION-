@@ -32,7 +32,7 @@ This project is designed to help beginners quickly understand the basic file str
 
 ### Installation Steps
 ```bash
-git clone https://github.com/your-username/open-source-practice.git
+git clone https://github.com/krzlovehqlq4201314/open-source-practice.git
 cd open-source-practice
 npm install # If you have dependencies, you can write it like this
 ###Example of use
