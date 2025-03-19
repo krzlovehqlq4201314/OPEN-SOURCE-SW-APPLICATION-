@@ -2,7 +2,7 @@
 to create/edit online on GitHub.
 
 3.1 README.md
-Example structure (according to the ideas provided on pages 16~17):
+Example structure 
 
 The name of the project and a one-sentence introduction
 Project Brief (Engine Start-up, Target, etc.)
@@ -13,7 +13,6 @@ How to contribute (can be prompted to view CONTRIBUTING.md)
 License information (can be prompted to view LICENSE.md)
 Example:
 
-markdown
 
 # Open Source Practice
 
