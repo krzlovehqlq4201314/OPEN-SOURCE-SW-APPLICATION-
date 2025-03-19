@@ -33,7 +33,6 @@ style: Code style adjustment (does not affect functionality)
 refactor: Code refactoring
 test: test-related
 chore: Changes to build or assist tools
-Example:
 
 bash
 
